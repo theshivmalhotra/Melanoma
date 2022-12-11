@@ -45,7 +45,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@theshivmalhotra] - feel free to contact me!
+Created by @theshivmalhotra - feel free to contact me!
 
 
 <!-- Optional -->
