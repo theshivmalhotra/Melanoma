@@ -28,7 +28,7 @@ We managed to eliminate overfitting and managed to reach a decent accuracy by us
 - Keras
 - TensorFlow
 - Python 3
-- Pandas, Numpy, Matplotlib,
+- Pandas, Numpy, Matplotlib
 - Augmentor 
 - Pandas- Data Analysis Python Library
 - Matplotlib- Visualization Python Library
